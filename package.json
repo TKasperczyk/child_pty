@@ -1,5 +1,5 @@
 {
-  "name": "child_pty",
+  "name": "child_pty-fixed",
   "version": "3.0.4",
   "description": "provides a child_process.spawn()-like interface with pty support.",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Gottox/child_pty"
+    "url": "git://github.com/TKasperczyk/child_pty"
   },
   "keywords": [
     "pty",
@@ -27,9 +27,9 @@
     "terminal"
   ],
   "bugs": {
-    "url": "https://github.com/Gottox/child_pty/issues"
+    "url": "https://github.com/TKasperczyk/child_pty/issues"
   },
-  "homepage": "https://github.com/Gottox/child_pty",
+  "homepage": "https://github.com/TKasperczyk/child_pty",
   "jshintConfig": {
     "unused": true,
     "eqeqeq": true,
