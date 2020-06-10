@@ -1,5 +1,5 @@
 {
-  "name": "child_pty--fixed",
+  "name": "child_pty-fixedv12",
   "version": "3.0.10",
   "description": "provides a child_process.spawn()-like interface with pty support.",
   "main": "index.js",
